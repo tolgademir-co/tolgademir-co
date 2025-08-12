@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgademir-co&label=Profile%20views&color=0e75b6&style=flat" alt="tolgademir-co" /> </p>
 
-- 🌱 I’m currently learning **Java , SwiftUI , CSS**
+- 🌱 I’m currently learning **Java , SwiftUI **
 
 - 💬 Ask me about **Java**
 
