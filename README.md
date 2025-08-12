@@ -3,7 +3,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Tolga Demir</h1>
 <h3 align="center">A passionate Back-end Developer from Turkey</h3>
 
