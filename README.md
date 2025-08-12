@@ -2,11 +2,8 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Tolga Demir</h1>
 <h3 align="center">A passionate Back-end Developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgademir-co&label=Profile%20views&color=0e75b6&style=flat" alt="tolgademir-co" /> </p>
 
 - 🌱 I’m currently learning **Java , SwiftUI**
 
@@ -28,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgademir-co&show_icons=true&locale=en" alt="tolgademir-co" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolgademir-co&" alt="tolgademir-co" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgademir-co&label=Profile%20views&color=0e75b6&style=flat" alt="tolgademir-co" /> </p>
